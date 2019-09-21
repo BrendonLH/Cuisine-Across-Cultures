@@ -1,4 +1,11 @@
-.title {
+.name {
     color: red;
     text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    float: left;
+    padding: 10px;
 }
