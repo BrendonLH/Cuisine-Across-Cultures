@@ -1,11 +1,60 @@
+
 .name {
     color: red;
     text-align: center;
+    font-size: 50px;
 }
 ul {
     list-style-type: none;
+    margin-left: 15%;
+    
 }
 li {
     float: left;
-    padding: 10px;
+    padding-left: 100px;
+}
+.navbar {
+    font-size: 25px;
+}
+#italian {
+    margin-top: 100px;
+}
+
+img {
+    height: 250px;
+    width: 350px;
+    border: 5px solid red;
+}
+#mexican {
+    margin-left: 500px;
+    margin-top: 20px;
+}
+#italian {
+    margin-left: 520px;
+}
+#american {
+    margin-left: 950px;
+    margin-top: -450px;
+}
+#indian {
+    margin-left: 100px;
+    margin-top: -250px;
+}
+#cuisine {
+    font-family: Verdana;
+    color: brown;
+}
+#across {
+    font-family: Tahoma;
+    font-size: 60%;
+}
+#cultures {
+    color: rgb(87, 206, 117);
+}
+hr {
+    width: 53%;
+    margin-left: 362px;
+    border-color: aquamarine;
+    background-color: blueviolet;
+    
 }
