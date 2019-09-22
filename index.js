@@ -23,11 +23,3 @@ alert("Anyways...since your here..might as well check out the site, we have info
 }
 console.log("---------Skynet Online---------");
 
-
-
-
-
-
-    
-   
-
