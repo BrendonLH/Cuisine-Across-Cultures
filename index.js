@@ -8,6 +8,7 @@ var hello = prompt("Hello! I am the Buffet Bot! how are you?"); {
     if(hello ==="good") {
       colorBot();  
     }
+    else alert("My vocabulary is very short, but if you want to change the color, I am on the menu!")
     if(hello ==="great") {
         colorBot();  
       }
@@ -18,9 +19,6 @@ var hello = prompt("Hello! I am the Buffet Bot! how are you?"); {
                 colorBot();
             }
         }
-    }
-    else {
-        alert("Buffet Bot doesnt know that Language but if you want to change the color, Select me on the menu")
     }
 }
 
