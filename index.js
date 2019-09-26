@@ -5,6 +5,21 @@ function colorBot(color) {
 }
 
 
+var loops = prompt("type in Loops are for Loopies"); 
+    while(loops !== "Loops are for Loopies") {
+        var loops = prompt("type in Loops are for Loopies")
+    }
+    alert("Yay! You did what i said!")
+
+    console.log("we printed some numbers with a for loop!");
+for(var forLoop = 1; forLoop <= 10; forLoop ++ ) {
+    console.log(forLoop);
+}
+
+
+
+
+
 // var hello = prompt("Hello! I am the Buffet Bot! how are you?"); {
 //     if(hello ==="good") {
 //       alert("Great to hear!")
@@ -66,7 +81,7 @@ function colorBot(color) {
 
     var makeFood = prompt("Whats your Favorite style of cuisine out of Italian, American or Mexican?");
     
-    if (makeFood === 'American') {
+    if (makeFood === "American") {
         var burger = ("American Cheesburger");
         var burgDescription = ("The American CheeseBurger can have a variety of condiments!?");
         var americanBurger = createAmerican(burger, burgDescription);
@@ -92,9 +107,17 @@ function colorBot(color) {
         
     }
 
-  
+    // var num = -10; 
+    // while(num <= 10) {
+    //     console.log(num);
+    //     num++;
+    // }
 
-    
+    // var num = -10;
+    // while(num <= 19) {
+    //     console.log (num);
+    //     num++;
+    // } 
    
   
 
